@@ -14,6 +14,7 @@ dns:
     - "+.lan"
     - "+.local"
   default-nameserver:
+    - https://dns.ovoi.net/dns-query/huqinghao
     - https://223.5.5.5/dns-query
     - 218.104.128.106
     - 58.22.96.66
@@ -85,6 +86,13 @@ proxy-groups:
       - 🇰🇷 韩国节点
       - 🚀 手动切换
       - DIRECT
+  - name: notion
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - 🚀 手动切换
+     
   - name: ❤️ Emby公益服
     type: select
     proxies:
@@ -340,6 +348,7 @@ proxy-groups:
     proxies:
       - DIRECT
 rules:
+  - DOMAIN-SUFFIX,notion.so,notion
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
@@ -2938,7 +2947,6 @@ rules:
   - DOMAIN-SUFFIX,ip138.com,🚀 节点选择
   - DOMAIN-SUFFIX,linkedin.com,🚀 节点选择
   - DOMAIN-SUFFIX,myteamspeak.com,🚀 节点选择
-  - DOMAIN-SUFFIX,notion.so,🚀 节点选择
   - DOMAIN-SUFFIX,openai.com,🚀 节点选择
   - DOMAIN-SUFFIX,ping.pe,🚀 节点选择
   - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
