@@ -366,8 +366,6 @@ rules:
   - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
   - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
   - DOMAIN,instant.arubanetworks.com,🎯 全球直连
- - DOMAIN-SUFFIX,ovoi.net,🎯 全球直连
-
   - DOMAIN,setmeup.arubanetworks.com,🎯 全球直连
   - DOMAIN,router.asus.com,🎯 全球直连
   - DOMAIN,www.asusrouter.com,🎯 全球直连
