@@ -31,7 +31,7 @@ dns:
     #- https://dns.alidns.com/dns-query
     
   proxy-server-nameserver:
-    - https://dns.ovoi.net/dns-query/huqinghao
+    - https://dns.ovoi.net/dns-query/www
     #- https://doh.pub/dns-query
     #- https://dns.cloudflare.com/dns-query#dns
     #- https://dns.google/dns-query#dns
