@@ -193,7 +193,7 @@ dns:
 proxies:
   - {name: "dns-out", type: dns}
 
-NodeParam: &NodeParam {type: http, interval: 3600, health-check: {enable: true, url: 'https://www.google.com/generate_204', interval: 6}}
+#NodeParam: &NodeParam {type: http, interval: 3600, health-check: {enable: true, url: 'https://www.google.com/generate_204', interval: 6}}
 
 # ★★★ 整个 proxy-providers 部分被这个占位符取代 ★★★
 __PROXY_PROVIDERS_SECTION__
