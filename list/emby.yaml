@@ -1,4 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,my.embylife.xyz
+  - DOMAIN-SUFFIX,ald.emby.moe
+  - DOMAIN-SUFFIX,myzox.embylife.xyz
+  - DOMAIN-SUFFIX,myjellyfin.embylife.xyz
+  - DOMAIN-SUFFIX,s.outong-valve.com
+  - DOMAIN-SUFFIX,my.liminalnet.site
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,emby.nexitally.com  
   - DOMAIN-SUFFIX,emby.cjpc.cc  
