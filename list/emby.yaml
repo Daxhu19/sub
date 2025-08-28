@@ -1,5 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,*.nubebelle.vip
+  - DOMAIN-SUFFIX,emby-b.nubebelle.vip
+  - DOMAIN-SUFFIX,emby-c.nubebelle.vip
+  - DOMAIN-SUFFIX,emby-a.nubebelle.vip
   - DOMAIN-SUFFIX,my.embylife.xyz
   - DOMAIN-SUFFIX,ald.emby.moe
   - DOMAIN-SUFFIX,myzox.embylife.xyz
